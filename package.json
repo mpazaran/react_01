@@ -1,0 +1,15 @@
+{
+  "name": "webserver",
+  "version": "0.0.1",
+  "description": "Mi first webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mau Pazaran",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
